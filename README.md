@@ -24,6 +24,7 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="Linux" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+<br>
 
 ![algoritmoaberto GitHub sats](https://github-readme-stats.vercel.app/api?username=algoritmoaberto&theme=radical)
 
