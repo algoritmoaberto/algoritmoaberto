@@ -2,7 +2,7 @@
 
 Eu sou o Algoritmo Aberto e juntos vamos aprender **Engenharia de Software**.
 
-**algoritmoaberto/algoritmoaberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **algoritmoaberto/algoritmoaberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ##
 
