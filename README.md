@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=true&textBg=false&fontAlign=50&animation=fadeIn)
 
 <!-- Texto de apresentação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=276460DF&background=FF165500&random=false&width=435&lines=Hello+World_;Eu+sou+o+Algoritmo+Aberto!;Juntos+vamos+aprender+Engenharia+de+Software!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=276460DF&background=FF165500&random=false&width=600&lines=Hello+World_;Eu+sou+o+Algoritmo+Aberto!;Juntos+vamos+aprender+Engenharia+de+Software!)](https://git.io/typing-svg)
 
 ##
 
